@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func json(json string) {
+func Json(json string) {
 	fmt.Println(json)
 }
